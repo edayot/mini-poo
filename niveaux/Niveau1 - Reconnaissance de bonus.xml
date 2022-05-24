@@ -1,0 +1,50 @@
+<Map titre="Niveau_1 - Reconnaissance de bonus" nb_coup="30" nb_colonnes="7" nb_lignes="6" couleurs="['green', 'red', 'yellow', 'blue', 'magenta']">
+  <Grille>
+    <Cellule ligne="0" colonne="0" contenu="magenta" orientation="Bas" flux="Source" />
+    <Cellule ligne="0" colonne="1" contenu="blue" orientation="Bas" flux="Source" />
+    <Cellule ligne="0" colonne="2" contenu="red" orientation="Bas" flux="Source" />
+    <Cellule ligne="0" colonne="3" contenu="yellow" orientation="Bas" flux="Source" />
+    <Cellule ligne="0" colonne="4" contenu="red" orientation="Bas" flux="Source" />
+    <Cellule ligne="0" colonne="5" contenu="red" orientation="Bas" flux="Source" />
+    <Cellule ligne="0" colonne="6" contenu="red" orientation="Bas" flux="Source" />
+    <Cellule ligne="1" colonne="0" contenu="blue" orientation="Bas" />
+    <Cellule ligne="1" colonne="1" contenu="magenta" orientation="Bas" />
+    <Cellule ligne="1" colonne="2" contenu="red" orientation="Bas" />
+    <Cellule ligne="1" colonne="3" contenu="magenta" orientation="Bas" />
+    <Cellule ligne="1" colonne="4" contenu="green" orientation="Bas" />
+    <Cellule ligne="1" colonne="5" contenu="blue" orientation="Bas" />
+    <Cellule ligne="1" colonne="6" contenu="blue" orientation="Bas" />
+    <Cellule ligne="2" colonne="0" contenu="yellow" orientation="Bas" />
+    <Cellule ligne="2" colonne="1" contenu="yellow" orientation="Bas" />
+    <Cellule ligne="2" colonne="2" contenu="yellow" orientation="Bas" />
+    <Cellule ligne="2" colonne="3" contenu="red" orientation="Bas" />
+    <Cellule ligne="2" colonne="4" contenu="magenta" orientation="Bas" />
+    <Cellule ligne="2" colonne="5" contenu="blue" orientation="Bas" />
+    <Cellule ligne="2" colonne="6" contenu="red" orientation="Bas" />
+    <Cellule ligne="3" colonne="0" contenu="green" orientation="Bas" />
+    <Cellule ligne="3" colonne="1" contenu="magenta" orientation="Bas" />
+    <Cellule ligne="3" colonne="2" contenu="green" orientation="Bas" />
+    <Cellule ligne="3" colonne="3" contenu="green" orientation="Bas" />
+    <Cellule ligne="3" colonne="4" contenu="blue" orientation="Bas" />
+    <Cellule ligne="3" colonne="5" contenu="yellow" orientation="Bas" />
+    <Cellule ligne="3" colonne="6" contenu="green" orientation="Bas" />
+    <Cellule ligne="4" colonne="0" contenu="green" orientation="Bas" />
+    <Cellule ligne="4" colonne="1" contenu="blue" orientation="Bas" />
+    <Cellule ligne="4" colonne="2" contenu="magenta" orientation="Bas" />
+    <Cellule ligne="4" colonne="3" contenu="red" orientation="Bas" />
+    <Cellule ligne="4" colonne="4" contenu="magenta" orientation="Bas" />
+    <Cellule ligne="4" colonne="5" contenu="yellow" orientation="Bas" />
+    <Cellule ligne="4" colonne="6" contenu="blue" orientation="Bas" />
+    <Cellule ligne="5" colonne="0" contenu="red" flux="Puits" />
+    <Cellule ligne="5" colonne="1" contenu="green" flux="Puits" />
+    <Cellule ligne="5" colonne="2" contenu="green" flux="Puits" />
+    <Cellule ligne="5" colonne="3" contenu="blue" flux="Puits" />
+    <Cellule ligne="5" colonne="4" contenu="magenta" flux="Puits" />
+    <Cellule ligne="5" colonne="5" contenu="green" flux="Puits" />
+    <Cellule ligne="5" colonne="6" contenu="red" flux="Puits" />
+  </Grille>
+  <Objectifs>
+    <Objectif Nombre="20 " Cible=" red" />
+    <Objectif Nombre="15 " Cible=" yellow" />
+  </Objectifs>
+</Map>
