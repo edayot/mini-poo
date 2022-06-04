@@ -1,4 +1,4 @@
-# Projet scolaire MINI-POO
+# Projet scolaire MINI-POO (archive)
 Objectif faire un jeu match-3 en python
 
 ## Installation
@@ -18,4 +18,4 @@ Un outil de création de niveaux est dans le dossier `niveaux`
 
 Les objectifs et les points actuels sont à gauche de l'écran
 
-Cliquez sur deux cases différentes les fera s'échanger, à vos mathc-3
+Cliquez sur deux cases différentes les fera s'échanger, à vos match-3
